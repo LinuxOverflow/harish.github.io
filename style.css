@@ -352,11 +352,11 @@ section {
     transition: var(--transition);
 }
 
-.highlight-card:hover {
+/* .highlight-card:hover {
     background: rgba(255, 255, 255, 0.05);
     border-color: rgba(255, 255, 255, 0.1);
     transform: translateX(5px);
-}
+} */
 
 .highlight-card h3 {
     font-size: 1.3rem;
