@@ -575,7 +575,7 @@ footer p {
 }
 
 .hero {
-    background-image: url("/src/DSC03768.jpg");
+    background: url(/src/DSC03768.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -657,7 +657,7 @@ section i {
 
         .highlight-card:hover{
             z-index: 1;
-            background: url(/src/grainybackground.jpg);
+            background: url("/src/grainybackground.jpg");
             background-repeat: no-repeat;
             background-size: cover;
         }
