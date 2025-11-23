@@ -575,7 +575,7 @@ footer p {
 }
 
 .hero {
-    background-image: url(/src/DSC03768.jpg);
+    background-image: url("/src/DSC03768.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
